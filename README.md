@@ -38,7 +38,7 @@ POST: /api/v1/persons
 ```JSON
 {
  "firstName" : "ABC",
- "lastName : "XYZ"
+ "lastName" : "XYZ"
 }
 ```
 `
@@ -55,7 +55,7 @@ PUT: /api/v1/persons/{personId}
 ```JSON
 {
  "firstName" : "DEF",
- "lastName : "PQR"
+ "lastName" : "PQR"
 }
 ```
 
@@ -79,9 +79,9 @@ POST: /api/v1/persons/{personId}/address
 ```JSON
 {
  "street" : "STREET",
- "city: "CITY",
- "state: "STATE",
- "postalCode: "POSTAL CODE",
+ "city": "CITY",
+ "state": "STATE",
+ "postalCode": "POSTAL CODE"
 }
 ```
 
