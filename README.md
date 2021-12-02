@@ -47,7 +47,7 @@ POST: /api/v1/persons
 #### Endpoint
 
 ```Java
-PUT: /api/v1/persons/{perdonId}
+PUT: /api/v1/persons/{personId}
 ```
 
 #### Request Body
@@ -64,7 +64,7 @@ PUT: /api/v1/persons/{perdonId}
 #### Endpoint
 
 ```Java
-DELETE: /api/v1/persons/{perdonId}
+DELETE: /api/v1/persons/{personId}
 ```
 
 ### Add Address To Person
