@@ -98,9 +98,9 @@ PUT: /api/v1/address/{addressId}
 ```JSON
 {
  "street" : "STREET1",
- "city: "CITY1",
- "state: "STATE1",
- "postalCode: "POSTAL CODE1",
+ "city": "CITY1",
+ "state": "STATE1",
+ "postalCode": "POSTAL CODE1",
 }
 ```
 
