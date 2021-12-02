@@ -10,7 +10,7 @@ This project also allow Address to be added into the Person object along with ed
 
 
 ### How to Install
-1.	git clone git@github.com:gaurav-tiwari/coding-exercise.git
+1.	git clone git@github.com:gauravtiwari089/coding-exercise.git
 2.	cd coding-exercise
 3.	mvn clean install
 
