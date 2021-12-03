@@ -1,4 +1,4 @@
-# Accella Coding Exercise
+# Coding Exercise
 
 ### Description:
 This project is allow user to create/edit/get/delete Person object in in-memory database (h2) via Rest interface.
